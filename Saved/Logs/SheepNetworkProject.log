@@ -5474,3 +5474,104 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.16-20.12.57:046][917]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2025.09.16-20.12.57:046][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.09.16-20.12.57:146][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.16-20.15.14:361][ 34]LogInterchangeEngine: [Pendente] Importando
+[2025.09.16-20.15.14:365][ 34]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.09.16-20.15.14:365][ 34]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.09.16-20.15.21:597][449]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SheepProject/Assets/Sprites/Bed.Bed
+[2025.09.16-20.15.26:366][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.15.26:497][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.16-20.15.26:504][719]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.15.26:504][719]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/SheepMicrogameLevelD8F93EFC41393FF99299E9A77D4FCA99.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/SheepMicrogameLevel.umap'
+[2025.09.16-20.15.26:512][719]LogFileHelpers: Saving map 'SheepMicrogameLevel' took 0.089
+[2025.09.16-20.15.26:519][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.610 ms (total: 4.42 sec)
+[2025.09.16-20.15.26:584][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.15.26:584][719]LogContentValidation: Enabled validators:
+[2025.09.16-20.15.26:584][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.15.26:584][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.15.26:584][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.15.26:584][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.15.26:584][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.15.26:584][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.15.26:584][719]AssetCheck: /Game/SheepProject/Level/SheepMicrogameLevel Validando ativo
+[2025.09.16-20.15.31:709][ 21]LogTexture: Display: Texturas de compilação: /Game/SheepProject/Assets/Sprites/Bed.Bed (BGRA8, 64X32 X1X1X1) (Memória necessária estimada: 1.064438 MB), EncodeSpeed: Final
+[2025.09.16-20.15.34:431][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.15.34:524][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.09.16-20.15.34:531][185]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.15.34:531][185]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/SheepMicrogameLevel8677DB3442200431211CE6B3882D5766.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/SheepMicrogameLevel.umap'
+[2025.09.16-20.15.34:538][185]LogFileHelpers: Saving map 'SheepMicrogameLevel' took 0.045
+[2025.09.16-20.15.34:546][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.861 ms (total: 4.53 sec)
+[2025.09.16-20.15.34:613][185]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.15.34:613][185]LogContentValidation: Enabled validators:
+[2025.09.16-20.15.34:613][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.15.34:613][185]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.15.34:613][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.15.34:613][185]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.15.34:613][185]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.15.34:613][185]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.15.34:613][185]AssetCheck: /Game/SheepProject/Level/SheepMicrogameLevel Validando ativo
+[2025.09.16-20.15.38:574][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.15.38:639][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Sprites/Bed] ([1] browsable assets)...
+[2025.09.16-20.15.38:641][421]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SheepProject/Assets/Sprites/Bed.Bed]
+[2025.09.16-20.15.38:641][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Sprites/Bed]
+[2025.09.16-20.15.38:643][421]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Sprites/Bed
+[2025.09.16-20.15.38:643][421]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedD84E04EF46F45B53EB30CAAED126A83E.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Sprites/Bed.uasset'
+[2025.09.16-20.15.38:651][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.411 ms (total: 4.61 sec)
+[2025.09.16-20.15.38:720][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.15.38:720][421]LogContentValidation: Enabled validators:
+[2025.09.16-20.15.38:721][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.15.38:721][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.15.38:721][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.15.38:721][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.15.38:721][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.15.38:721][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.15.38:721][421]AssetCheck: /Game/SheepProject/Assets/Sprites/Bed Validando ativo
+[2025.09.16-20.15.48:899][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.15.48:955][ 18]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Sprites/Bed_Sprite] ([1] browsable assets)...
+[2025.09.16-20.15.48:957][ 18]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/SheepProject/Assets/Sprites/Bed_Sprite.Bed_Sprite]
+[2025.09.16-20.15.48:958][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Sprites/Bed_Sprite]
+[2025.09.16-20.15.48:959][ 18]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Sprites/Bed_Sprite
+[2025.09.16-20.15.48:959][ 18]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/Bed_SpriteF54E7C5E4F4DC3778CA5C988D4DD3BD6.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Sprites/Bed_Sprite.uasset'
+[2025.09.16-20.15.48:969][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.564 ms (total: 4.68 sec)
+[2025.09.16-20.15.49:044][ 18]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.15.49:044][ 18]LogContentValidation: Enabled validators:
+[2025.09.16-20.15.49:044][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.15.49:044][ 18]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.15.49:044][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.15.49:044][ 18]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.15.49:044][ 18]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.15.49:044][ 18]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.15.49:045][ 18]AssetCheck: /Game/SheepProject/Assets/Sprites/Bed_Sprite Validando ativo
+[2025.09.16-20.15.56:424][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.15.56:424][441]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Characters/Bed_Sprite] ([1] browsable assets)...
+[2025.09.16-20.15.56:424][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Characters/Bed_Sprite]
+[2025.09.16-20.15.56:425][441]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Characters/Bed_Sprite
+[2025.09.16-20.15.56:425][441]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/Bed_Sprite591037654CF8195ADFEB28844D7D8144.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Characters/Bed_Sprite.uasset'
+[2025.09.16-20.15.56:426][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.075 ms (total: 4.69 sec)
+[2025.09.16-20.15.56:492][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.16-20.15.56:505][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.16-20.15.56:520][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.09.16-20.15.56:566][441]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-20.15.56:566][441]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.15.56:566][441]LogContentValidation: Enabled validators:
+[2025.09.16-20.15.56:566][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.15.56:566][441]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.15.56:566][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.15.56:566][441]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.15.56:566][441]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.15.56:566][441]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.15.56:566][441]AssetCheck: /Game/SheepProject/Assets/Characters/Bed_Sprite Validando ativo
+[2025.09.16-20.16.02:729][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.16.02:813][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.16.02:822][808]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.16.02:823][808]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/SheepMicrogameLevelE086950B4E48270D5B93E08ED9D999E1.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/SheepMicrogameLevel.umap'
+[2025.09.16-20.16.02:830][808]LogFileHelpers: Saving map 'SheepMicrogameLevel' took 0.043
+[2025.09.16-20.16.02:838][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.950 ms (total: 4.79 sec)
+[2025.09.16-20.16.02:906][808]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.16.02:906][808]LogContentValidation: Enabled validators:
+[2025.09.16-20.16.02:906][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.16.02:906][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.16.02:906][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.16.02:906][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.16.02:906][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.16.02:906][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.16.02:906][808]AssetCheck: /Game/SheepProject/Level/SheepMicrogameLevel Validando ativo
