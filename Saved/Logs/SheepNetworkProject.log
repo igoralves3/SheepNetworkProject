@@ -5633,3 +5633,1521 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.16-20.17.33:720][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2829.829834
 [2025.09.16-20.17.34:004][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.16-20.17.34:004][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2830.096680, Update Interval: 336.472046
+[2025.09.16-20.19.22:935][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.19.23:028][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.09.16-20.19.23:032][344]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.19.23:032][344]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel33E7B8504686D081D34AF6B05F6A70D8.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.19.23:040][344]LogFileHelpers: Saving map 'BedroomLevel' took 0.043
+[2025.09.16-20.19.23:047][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.304 ms (total: 5.25 sec)
+[2025.09.16-20.19.23:113][344]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.19.23:113][344]LogContentValidation: Enabled validators:
+[2025.09.16-20.19.23:113][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.19.23:113][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.19.23:113][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.19.23:113][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.19.23:113][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.19.23:113][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.19.23:113][344]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.21.21:412][970]LogSlate: Window 'Seletor de cores' being destroyed
+[2025.09.16-20.21.39:904][ 74]LogSlate: Window 'Seletor de cores' being destroyed
+[2025.09.16-20.22.20:438][477]LogSlate: Window 'Seletor de cores' being destroyed
+[2025.09.16-20.22.54:327][ 54]LogSlate: Window 'Bed' being destroyed
+[2025.09.16-20.22.54:336][ 54]LogSlate: Window 'Bed' being destroyed
+[2025.09.16-20.22.54:346][ 54]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.22.54:346][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.22.54:556][ 54]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.16-20.22.54:556][ 54]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.22.54:556][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.22.54:728][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.16-20.22.57:036][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.22.57:148][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.22.57:151][190]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.22.57:151][190]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel85495EB3479B335C8FECD0B1581762AE.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.22.57:159][190]LogFileHelpers: Saving map 'BedroomLevel' took 0.062
+[2025.09.16-20.22.57:167][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.503 ms (total: 5.38 sec)
+[2025.09.16-20.22.57:236][190]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.22.57:236][190]LogContentValidation: Enabled validators:
+[2025.09.16-20.22.57:236][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.22.57:236][190]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.22.57:236][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.22.57:236][190]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.22.57:236][190]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.22.57:236][190]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.22.57:237][190]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.22.59:899][348]LogStreaming: Display: FlushAsyncLoading(701): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.23.00:338][348]LogTexture: Display: Texturas de compilação: /Engine/Transient.Texture2D_8 (BGRA8, 128X128 X1X1X1) (Memória necessária estimada: 1.515617 MB), EncodeSpeed: Fast
+[2025.09.16-20.23.32:785][185]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.16-20.23.33:537][206]LogSlate: Window 'Configurações do projeto' being destroyed
+[2025.09.16-20.23.33:551][206]LogSlate: Window 'Configurações do projeto' being destroyed
+[2025.09.16-20.24.06:242][635]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3222.345459
+[2025.09.16-20.24.06:448][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.24.06:449][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3222.535156, Update Interval: 343.512695
+[2025.09.16-20.24.21:780][472]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.09.16-20.24.21:786][472]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.09.16-20.24.21:794][473]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.09.16-20.24.29:114][912]LogShaderCompilers: Display: ================================================
+[2025.09.16-20.24.29:114][912]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.16-20.24.29:114][912]LogShaderCompilers: Display: Total job queries 598, among them cache hits 26 (4.35%), DDC hits 181 (30.27%), Duplicates 69 (11.54%)
+[2025.09.16-20.24.29:114][912]LogShaderCompilers: Display: Tracking 503 distinct input hashes that result in 309 distinct outputs (61.43%)
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: RAM used: 196,93 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Shaders Compiled: 322
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Jobs assigned 322, completed 322 (100%)
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Time job spent in pending queue: average 7.44 s, longest 18.75 s
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Job execution time: average 5.23 s, max 8.65 s
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Job life time (pending + execution): average 12.66 s, max 19.77
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Shader code size: average 9,727 KiB, min 2,105 KiB, max 19,43 KiB
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.93 s
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 6.44 jobs/batch
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Average processing rate: 16.16 jobs/sec
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Total thread time: 173,011 s
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Total thread preprocess time: 8,928 s
+[2025.09.16-20.24.29:115][912]LogShaderCompilers: Display: Percentage time preprocessing: 5.16%
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Effective parallelization: 8.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   24 times, average 1.27 sec, max 1.38 sec, min 1.06 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   28 times, average 1.05 sec, max 1.44 sec, min 0.74 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.99 sec, max 1.13 sec, min 0.90 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.93 sec, max 1.04 sec, min 0.85 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   24 times, average 0.92 sec, max 0.99 sec, min 0.84 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 17.63% of total time (compiled   24 times, average 1.27 sec, max 1.38 sec, min 1.06 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.93% of total time (compiled   28 times, average 1.05 sec, max 1.44 sec, min 0.74 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.83% of total time (compiled   24 times, average 0.92 sec, max 0.99 sec, min 0.84 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 8.40% of total time (compiled   42 times, average 0.35 sec, max 0.41 sec, min 0.30 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.30% of total time (compiled   42 times, average 0.34 sec, max 0.44 sec, min 0.22 sec)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: === Material stats ===
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Materials Translated:    159
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Material Translation Only: 0.06 s (41%)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
+[2025.09.16-20.24.29:116][912]LogShaderCompilers: Display: ================================================
+[2025.09.16-20.24.30:181][976]LogContentBrowser: Attempting asset rename: NewMaterial -> Material_Ground
+[2025.09.16-20.24.30:183][976]LogContentBrowser: End creating deferred item NewMaterial
+[2025.09.16-20.24.31:464][ 50]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SheepProject/Materials/Material_Ground.Material_Ground
+[2025.09.16-20.24.31:482][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.09.16-20.24.31:483][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.09.16-20.24.31:483][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.09.16-20.24.31:484][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.09.16-20.24.31:484][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.09.16-20.24.31:484][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.09.16-20.24.31:484][ 50]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.09.16-20.24.31:484][ 50]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.09.16-20.24.31:505][ 50]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.16-20.24.31:511][ 50]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.24.31:930][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.16-20.24.31:930][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.16-20.24.31:930][ 50]MaterialEditorStats: Shader Count: 0
+[2025.09.16-20.24.31:930][ 50]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.16-20.24.32:131][ 52]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.16-20.24.32:132][ 52]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.16-20.24.32:132][ 52]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.16-20.24.32:132][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.16-20.24.32:132][ 52]MaterialEditorStats: Shader Count: 5
+[2025.09.16-20.24.32:132][ 52]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.16-20.24.51:927][197]LogSlate: Window 'Seletor de cores' being destroyed
+[2025.09.16-20.24.51:939][197]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.16-20.24.51:941][197]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.16-20.24.51:941][197]MaterialEditorStats: Shader Count: 0
+[2025.09.16-20.24.51:941][197]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.16-20.24.52:948][251]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.16-20.24.52:948][251]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.16-20.24.52:948][251]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.16-20.24.52:948][251]MaterialEditorStats: Shader Count: 2
+[2025.09.16-20.24.52:948][251]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.16-20.24.53:148][263]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.16-20.24.53:148][263]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.16-20.24.53:148][263]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.16-20.24.53:148][263]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.16-20.24.53:148][263]MaterialEditorStats: Shader Count: 4
+[2025.09.16-20.24.53:148][263]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.16-20.24.55:431][400]LogMaterialEditor: Saving and Compiling material Material_Ground
+[2025.09.16-20.24.55:711][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.16-20.24.56:604][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.09.16-20.24.56:617][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.24.56:684][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Materials/Material_Ground] ([1] browsable assets)...
+[2025.09.16-20.24.56:693][400]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SheepProject/Materials/Material_Ground.Material_Ground]
+[2025.09.16-20.24.56:694][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Materials/Material_Ground]
+[2025.09.16-20.24.56:695][400]LogSavePackage: Moving output files for package: /Game/SheepProject/Materials/Material_Ground
+[2025.09.16-20.24.56:695][400]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/Material_GroundEDE13C0A4DCE502B083F35B6080B53EA.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Materials/Material_Ground.uasset'
+[2025.09.16-20.24.56:711][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.177 ms (total: 5.47 sec)
+[2025.09.16-20.24.56:772][400]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.24.56:772][400]LogContentValidation: Enabled validators:
+[2025.09.16-20.24.56:772][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.24.56:772][400]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.24.56:772][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.24.56:772][400]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.24.56:772][400]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.24.56:772][400]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.24.56:772][400]AssetCheck: /Game/SheepProject/Materials/Material_Ground Validando ativo
+[2025.09.16-20.25.57:510][964]LogContentBrowser: Deferred new asset file creation: NewPaperTileSet
+[2025.09.16-20.25.57:515][964]LogContentBrowser: Creating deferred item: NewPaperTileSet
+[2025.09.16-20.25.57:527][965]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperTileSet).
+[2025.09.16-20.26.05:633][451]LogContentBrowser: Attempting asset rename: NewPaperTileSet -> BedroomTileset
+[2025.09.16-20.26.05:651][451]LogContentBrowser: End creating deferred item NewPaperTileSet
+[2025.09.16-20.26.06:945][527]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset
+[2025.09.16-20.26.06:952][527]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.16-20.26.38:371][381]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.26.38:372][381]LogContentBrowser: Deferred new asset file creation: GroundTile1
+[2025.09.16-20.26.38:381][381]LogContentBrowser: Creating deferred item: GroundTile1
+[2025.09.16-20.26.38:392][382]LogContentBrowser: Renaming the item being created (Deferred Item: GroundTile1).
+[2025.09.16-20.26.43:063][662]LogContentBrowser: Attempting asset rename: GroundTile1 -> FloorTile
+[2025.09.16-20.26.43:065][662]LogContentBrowser: End creating deferred item GroundTile1
+[2025.09.16-20.26.48:142][956]LogContentBrowser: Deferred new asset file creation: FloorTile1
+[2025.09.16-20.26.48:150][956]LogContentBrowser: Creating deferred item: FloorTile1
+[2025.09.16-20.26.48:159][957]LogContentBrowser: Renaming the item being created (Deferred Item: FloorTile1).
+[2025.09.16-20.26.52:021][189]LogContentBrowser: Attempting asset rename: FloorTile1 -> WallTile
+[2025.09.16-20.26.52:022][189]LogContentBrowser: End creating deferred item FloorTile1
+[2025.09.16-20.26.53:733][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.26.53:879][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.16-20.26.53:884][291]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.26.53:884][291]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelDA05436344E8DE4C7DD3ADAF1A69D1A5.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.26.53:892][291]LogFileHelpers: Saving map 'BedroomLevel' took 0.081
+[2025.09.16-20.26.53:900][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.774 ms (total: 5.64 sec)
+[2025.09.16-20.26.53:967][291]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.26.53:967][291]LogContentValidation: Enabled validators:
+[2025.09.16-20.26.53:967][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.26.53:967][291]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.26.53:967][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.26.53:967][291]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.26.53:967][291]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.26.53:967][291]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.26.53:967][291]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.26.55:098][357]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SheepProject/Assets/Tiles/FloorTile.FloorTile
+[2025.09.16-20.27.29:127][381]LogShaderCompilers: Display: ================================================
+[2025.09.16-20.27.29:127][381]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.16-20.27.29:127][381]LogShaderCompilers: Display: Total job queries 641, among them cache hits 44 (6.86%), DDC hits 196 (30.58%), Duplicates 69 (10.76%)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Tracking 528 distinct input hashes that result in 324 distinct outputs (61.36%)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: RAM used: 252,83 KiB of 819,20 MiB budget. Usage: 0.03%
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Shaders Compiled: 332
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Jobs assigned 332, completed 332 (100%)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Average time worker was idle: 9.52 s
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Time job spent in pending queue: average 7.22 s, longest 18.75 s
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Job execution time: average 5.09 s, max 8.65 s
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Job life time (pending + execution): average 12.31 s, max 19.77
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Shader code size: average 9,673 KiB, min 2,105 KiB, max 19,43 KiB
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.18 s
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Jobs were issued in 60 batches (only local compilation was used), average 5.53 jobs/batch
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Average processing rate: 14.97 jobs/sec
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Total thread time: 176,604 s
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Total thread preprocess time: 9,521 s
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Percentage time preprocessing: 5.39%
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Effective parallelization: 7.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   24 times, average 1.27 sec, max 1.38 sec, min 1.06 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   29 times, average 1.03 sec, max 1.44 sec, min 0.61 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   24 times, average 0.92 sec, max 0.99 sec, min 0.84 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    5 times, average 0.89 sec, max 1.13 sec, min 0.49 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.88 sec, max 1.04 sec, min 0.69 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 17.27% of total time (compiled   24 times, average 1.27 sec, max 1.38 sec, min 1.06 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.93% of total time (compiled   29 times, average 1.03 sec, max 1.44 sec, min 0.61 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.57% of total time (compiled   24 times, average 0.92 sec, max 0.99 sec, min 0.84 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 8.34% of total time (compiled   43 times, average 0.34 sec, max 0.41 sec, min 0.19 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.27% of total time (compiled   43 times, average 0.34 sec, max 0.44 sec, min 0.22 sec)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: === Material stats ===
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Materials Translated:    166
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Material Translation Only: 0.06 s (41%)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: Material Cache Hits: 16 (10%)
+[2025.09.16-20.27.29:128][381]LogShaderCompilers: Display: ================================================
+[2025.09.16-20.27.32:317][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.27.32:379][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Tiles/FloorTile] ([1] browsable assets)...
+[2025.09.16-20.27.32:382][572]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SheepProject/Assets/Tiles/FloorTile.FloorTile]
+[2025.09.16-20.27.32:382][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/FloorTile]
+[2025.09.16-20.27.32:383][572]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/FloorTile
+[2025.09.16-20.27.32:383][572]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/FloorTile64077C37428A0809957D43AE66018569.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/FloorTile.uasset'
+[2025.09.16-20.27.32:393][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.671 ms (total: 5.71 sec)
+[2025.09.16-20.27.32:456][572]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.27.32:456][572]LogContentValidation: Enabled validators:
+[2025.09.16-20.27.32:456][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.27.32:457][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.27.32:457][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.27.32:457][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.27.32:457][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.27.32:457][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.27.32:457][572]AssetCheck: /Game/SheepProject/Assets/Tiles/FloorTile Validando ativo
+[2025.09.16-20.27.38:040][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.27.38:099][906]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Tiles/BedroomTileset] ([1] browsable assets)...
+[2025.09.16-20.27.38:102][906]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset]
+[2025.09.16-20.27.38:102][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/BedroomTileset]
+[2025.09.16-20.27.38:104][906]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/BedroomTileset
+[2025.09.16-20.27.38:104][906]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomTileset58F61A514B480C22B227F894F984B418.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/BedroomTileset.uasset'
+[2025.09.16-20.27.38:114][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.609 ms (total: 5.79 sec)
+[2025.09.16-20.27.38:177][906]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.27.38:177][906]LogContentValidation: Enabled validators:
+[2025.09.16-20.27.38:177][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.27.38:177][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.27.38:177][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.27.38:177][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.27.38:177][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.27.38:177][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.27.38:177][906]AssetCheck: /Game/SheepProject/Assets/Tiles/BedroomTileset Validando ativo
+[2025.09.16-20.28.18:738][332]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SheepProject/Assets/Tiles/WallTile.WallTile
+[2025.09.16-20.28.20:141][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.28.20:198][403]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Tiles/WallTile] ([1] browsable assets)...
+[2025.09.16-20.28.20:201][403]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SheepProject/Assets/Tiles/WallTile.WallTile]
+[2025.09.16-20.28.20:201][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/WallTile]
+[2025.09.16-20.28.20:202][403]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/WallTile
+[2025.09.16-20.28.20:202][403]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/WallTileDE416C434F8B994FF1AD4698D3CA2937.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/WallTile.uasset'
+[2025.09.16-20.28.20:212][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.063 ms (total: 5.86 sec)
+[2025.09.16-20.28.20:276][403]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.28.20:276][403]LogContentValidation: Enabled validators:
+[2025.09.16-20.28.20:276][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.28.20:276][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.28.20:276][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.28.20:276][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.28.20:276][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.28.20:276][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.28.20:276][403]AssetCheck: /Game/SheepProject/Assets/Tiles/WallTile Validando ativo
+[2025.09.16-20.28.47:736][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.28.47:897][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.16-20.28.47:902][972]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.28.47:903][972]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelADB070954A738D41E341A980EE1D1A6A.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.28.47:911][972]LogFileHelpers: Saving map 'BedroomLevel' took 0.117
+[2025.09.16-20.28.47:920][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.222 ms (total: 6.04 sec)
+[2025.09.16-20.28.47:986][972]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.28.47:986][972]LogContentValidation: Enabled validators:
+[2025.09.16-20.28.47:986][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.28.47:986][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.28.47:986][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.28.47:986][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.28.47:986][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.28.47:986][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.28.47:986][972]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.30.05:544][446]LogContentBrowser: Deferred new asset file creation: WallTile_Mat
+[2025.09.16-20.30.05:556][446]LogContentBrowser: Creating deferred item: WallTile_Mat
+[2025.09.16-20.30.05:572][447]LogContentBrowser: Renaming the item being created (Deferred Item: WallTile_Mat).
+[2025.09.16-20.30.06:975][532]LogContentBrowser: Attempting asset rename: WallTile_Mat -> WallTile_Mat
+[2025.09.16-20.30.06:979][532]LogContentBrowser: End creating deferred item WallTile_Mat
+[2025.09.16-20.30.09:918][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.16-20.30.11:320][700]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.16-20.30.11:361][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.16-20.30.11:379][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.09.16-20.30.11:396][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.09.16-20.30.12:540][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.30.12:621][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.09.16-20.30.12:627][769]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.30.12:627][769]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel49B638E34B23974C0BB791B1ABECE791.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.30.12:634][769]LogFileHelpers: Saving map 'BedroomLevel' took 0.040
+[2025.09.16-20.30.12:641][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.351 ms (total: 6.14 sec)
+[2025.09.16-20.30.12:703][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.30.12:703][769]LogContentValidation: Enabled validators:
+[2025.09.16-20.30.12:703][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.30.12:703][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.30.12:703][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.30.12:703][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.30.12:703][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.30.12:703][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.30.12:703][769]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.30.23:576][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3599.678223
+[2025.09.16-20.30.24:572][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.30.24:572][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3600.341064, Update Interval: 331.132538
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: ================================================
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Total job queries 646, among them cache hits 44 (6.81%), DDC hits 196 (30.34%), Duplicates 69 (10.68%)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Tracking 533 distinct input hashes that result in 327 distinct outputs (61.35%)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: RAM used: 253,72 KiB of 819,20 MiB budget. Usage: 0.03%
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Shaders Compiled: 337
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Jobs assigned 337, completed 337 (100%)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Average time worker was idle: 36.91 s
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Time job spent in pending queue: average 7.11 s, longest 18.75 s
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Job execution time: average 5.03 s, max 8.65 s
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Job life time (pending + execution): average 12.14 s, max 19.77
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Shader code size: average 9,645 KiB, min 2,105 KiB, max 19,43 KiB
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.58 s
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Jobs were issued in 65 batches (only local compilation was used), average 5.18 jobs/batch
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Average processing rate: 14.29 jobs/sec
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Total thread time: 178,272 s
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Total thread preprocess time: 9,608 s
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Percentage time preprocessing: 5.39%
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Effective parallelization: 7.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   24 times, average 1.27 sec, max 1.38 sec, min 1.06 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   29 times, average 1.03 sec, max 1.44 sec, min 0.61 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   24 times, average 0.92 sec, max 0.99 sec, min 0.84 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    5 times, average 0.89 sec, max 1.13 sec, min 0.49 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.84 sec, max 1.04 sec, min 0.62 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 17.11% of total time (compiled   24 times, average 1.27 sec, max 1.38 sec, min 1.06 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.78% of total time (compiled   29 times, average 1.03 sec, max 1.44 sec, min 0.61 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.45% of total time (compiled   24 times, average 0.92 sec, max 0.99 sec, min 0.84 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.33% of total time (compiled   44 times, average 0.34 sec, max 0.44 sec, min 0.22 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 8.26% of total time (compiled   43 times, average 0.34 sec, max 0.41 sec, min 0.19 sec)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: === Material stats ===
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Materials Translated:    167
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Material Translation Only: 0.06 s (41%)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: Material Cache Hits: 16 (10%)
+[2025.09.16-20.30.29:143][398]LogShaderCompilers: Display: ================================================
+[2025.09.16-20.32.15:480][348]LogSlate: Window 'Message' being destroyed
+[2025.09.16-20.32.15:540][348]LogInterchangeEngine: [Pendente] Importando
+[2025.09.16-20.32.15:554][348]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.09.16-20.32.15:554][348]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.09.16-20.32.17:089][349]LogSlate: Window 'Message' being destroyed
+[2025.09.16-20.32.17:133][349]LogInterchangeEngine: [Pendente] Importando
+[2025.09.16-20.32.17:140][349]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.09.16-20.32.17:140][349]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.09.16-20.32.18:716][431]LogDerivedDataCache: C:/Users/Igor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.036 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 437 files in 465 folders with total size 48 MiB.
+[2025.09.16-20.32.19:864][499]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SheepProject/Assets/Tiles/WallTile.WallTile
+[2025.09.16-20.32.23:407][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.32.23:468][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Tiles/WallTile] ([1] browsable assets)...
+[2025.09.16-20.32.23:471][699]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SheepProject/Assets/Tiles/WallTile.WallTile]
+[2025.09.16-20.32.23:471][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/WallTile]
+[2025.09.16-20.32.23:472][699]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/WallTile
+[2025.09.16-20.32.23:472][699]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/WallTile0EEA9D114F200642B5AB188588433440.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/WallTile.uasset'
+[2025.09.16-20.32.23:483][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.388 ms (total: 6.22 sec)
+[2025.09.16-20.32.23:546][699]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.32.23:547][699]LogContentValidation: Enabled validators:
+[2025.09.16-20.32.23:547][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.32.23:547][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.32.23:547][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.32.23:547][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.32.23:547][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.32.23:547][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.32.23:547][699]AssetCheck: /Game/SheepProject/Assets/Tiles/WallTile Validando ativo
+[2025.09.16-20.32.25:468][813]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SheepProject/Assets/Tiles/FloorTile.FloorTile
+[2025.09.16-20.32.28:006][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.32.28:068][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Tiles/FloorTile] ([1] browsable assets)...
+[2025.09.16-20.32.28:070][952]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SheepProject/Assets/Tiles/FloorTile.FloorTile]
+[2025.09.16-20.32.28:070][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/FloorTile]
+[2025.09.16-20.32.28:071][952]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/FloorTile
+[2025.09.16-20.32.28:072][952]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/FloorTile83AC7FF84054DD1356F06EB1C980E9F0.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/FloorTile.uasset'
+[2025.09.16-20.32.28:081][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.956 ms (total: 6.29 sec)
+[2025.09.16-20.32.28:139][952]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.32.28:139][952]LogContentValidation: Enabled validators:
+[2025.09.16-20.32.28:139][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.32.28:139][952]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.32.28:139][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.32.28:139][952]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.32.28:139][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.32.28:139][952]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.32.28:139][952]AssetCheck: /Game/SheepProject/Assets/Tiles/FloorTile Validando ativo
+[2025.09.16-20.33.32:301][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.33.32:362][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Tiles/BedroomTileset] ([1] browsable assets)...
+[2025.09.16-20.33.32:364][674]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset]
+[2025.09.16-20.33.32:364][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/BedroomTileset]
+[2025.09.16-20.33.32:366][674]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/BedroomTileset
+[2025.09.16-20.33.32:367][674]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomTileset2273F8E440525AC23197D7B9A6A13A1A.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/BedroomTileset.uasset'
+[2025.09.16-20.33.32:375][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.709 ms (total: 6.37 sec)
+[2025.09.16-20.33.32:439][674]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.33.32:440][674]LogContentValidation: Enabled validators:
+[2025.09.16-20.33.32:440][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.33.32:440][674]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.33.32:440][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.33.32:440][674]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.33.32:440][674]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.33.32:440][674]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.33.32:440][674]AssetCheck: /Game/SheepProject/Assets/Tiles/BedroomTileset Validando ativo
+[2025.09.16-20.35.16:231][ 77]LogInterchangeEngine: [Pendente] Importando
+[2025.09.16-20.35.16:235][ 77]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.09.16-20.35.16:235][ 77]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.09.16-20.35.18:979][222]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SheepProject/Assets/Tiles/TileSheetBedroom.TileSheetBedroom
+[2025.09.16-20.36.53:061][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3989.161133
+[2025.09.16-20.36.54:061][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.36.54:061][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3989.827393, Update Interval: 330.345154
+[2025.09.16-20.39.02:990][517]LogInterchangeEngine: [Pendente] Importando
+[2025.09.16-20.39.02:995][517]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.09.16-20.39.02:995][517]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.09.16-20.39.06:040][681]AssetReimport: Ativo reimportado TileSheetBedroom de C:/Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TileSheetBedroom.png.
+[2025.09.16-20.39.07:890][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.39.07:947][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Tiles/TileSheetBedroom] ([1] browsable assets)...
+[2025.09.16-20.39.07:950][792]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SheepProject/Assets/Tiles/TileSheetBedroom.TileSheetBedroom]
+[2025.09.16-20.39.07:950][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TileSheetBedroom]
+[2025.09.16-20.39.07:951][792]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TileSheetBedroom
+[2025.09.16-20.39.07:951][792]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TileSheetBedroomD704402444770372913704B16EF0A194.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TileSheetBedroom.uasset'
+[2025.09.16-20.39.07:964][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.513 ms (total: 6.44 sec)
+[2025.09.16-20.39.08:028][792]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.39.08:028][792]LogContentValidation: Enabled validators:
+[2025.09.16-20.39.08:028][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.39.08:028][792]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.39.08:028][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.39.08:028][792]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.39.08:028][792]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.39.08:028][792]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.39.08:029][792]AssetCheck: /Game/SheepProject/Assets/Tiles/TileSheetBedroom Validando ativo
+[2025.09.16-20.40.10:023][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.40.10:086][490]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Tiles/BedroomTileset] ([1] browsable assets)...
+[2025.09.16-20.40.10:089][490]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset]
+[2025.09.16-20.40.10:089][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/BedroomTileset]
+[2025.09.16-20.40.10:090][490]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/BedroomTileset
+[2025.09.16-20.40.10:090][490]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomTilesetE9CA49874E5A731B5A15CB92FD08656A.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/BedroomTileset.uasset'
+[2025.09.16-20.40.10:099][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.144 ms (total: 6.52 sec)
+[2025.09.16-20.40.10:169][490]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.40.10:169][490]LogContentValidation: Enabled validators:
+[2025.09.16-20.40.10:169][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.40.10:169][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.40.10:169][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.40.10:169][490]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.40.10:169][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.40.10:169][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.40.10:169][490]AssetCheck: /Game/SheepProject/Assets/Tiles/BedroomTileset Validando ativo
+[2025.09.16-20.41.07:438][854]LogContentBrowser: Deferred new asset file creation: NewPaperTileMap
+[2025.09.16-20.41.07:443][854]LogContentBrowser: Creating deferred item: NewPaperTileMap
+[2025.09.16-20.41.07:455][855]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperTileMap).
+[2025.09.16-20.41.14:459][275]LogContentBrowser: Attempting asset rename: NewPaperTileMap -> TilemapBedroom
+[2025.09.16-20.41.14:460][275]LogContentBrowser: End creating deferred item NewPaperTileMap
+[2025.09.16-20.41.15:510][337]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom
+[2025.09.16-20.41.15:513][337]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.16-20.41.17:191][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.41.17:250][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.41.17:250][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.41.17:251][418]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.41.17:251][418]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroom954C3E3B4C2887ED41A2F6AA3E5F0EDE.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.41.17:260][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.217 ms (total: 6.59 sec)
+[2025.09.16-20.41.17:326][418]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.41.17:327][418]LogContentValidation: Enabled validators:
+[2025.09.16-20.41.17:327][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.41.17:327][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.41.17:327][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.41.17:327][418]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.41.17:327][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.41.17:327][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.41.17:327][418]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.41.56:103][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.41.56:170][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.41.56:170][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.41.56:171][729]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.41.56:172][729]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroomFF3AA28E4ED00E1FB79A6C989CE0FB6B.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.41.56:181][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.002 ms (total: 6.67 sec)
+[2025.09.16-20.41.56:242][729]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.41.56:242][729]LogContentValidation: Enabled validators:
+[2025.09.16-20.41.56:242][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.41.56:242][729]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.41.56:242][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.41.56:242][729]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.41.56:242][729]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.41.56:242][729]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.41.56:242][729]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.42.44:209][571]LogSlate: Window 'Seletor de cores' being destroyed
+[2025.09.16-20.43.17:482][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4373.586426
+[2025.09.16-20.43.17:750][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.43.17:750][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4373.839355, Update Interval: 350.840790
+[2025.09.16-20.43.31:214][372]LogSlate: Window 'Seletor de cores' being destroyed
+[2025.09.16-20.43.36:996][715]Cmd: TRANSACTION UNDO
+[2025.09.16-20.43.36:996][715]LogEditorTransaction: Undo Editar Layer Color
+[2025.09.16-20.43.54:734][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.43.54:788][757]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/FloorTile] ([1] browsable assets)...
+[2025.09.16-20.43.54:788][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/FloorTile]
+[2025.09.16-20.43.54:790][757]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/FloorTile
+[2025.09.16-20.43.54:790][757]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/FloorTileC8FD2421446F55099295E58C96F4C8B3.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/FloorTile.uasset'
+[2025.09.16-20.43.54:798][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.570 ms (total: 6.73 sec)
+[2025.09.16-20.43.54:860][757]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.43.54:860][757]LogContentValidation: Enabled validators:
+[2025.09.16-20.43.54:860][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.43.54:860][757]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.43.54:860][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.43.54:860][757]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.43.54:860][757]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.43.54:860][757]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.43.54:860][757]AssetCheck: /Game/SheepProject/Assets/Tiles/FloorTile Validando ativo
+[2025.09.16-20.43.57:621][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.43.57:676][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.43.57:676][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.43.57:726][920]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.43.57:727][920]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroom27B9B3B8496FBAF01B2F6C8459347FC7.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.43.57:734][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.320 ms (total: 6.84 sec)
+[2025.09.16-20.43.57:796][920]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.43.57:796][920]LogContentValidation: Enabled validators:
+[2025.09.16-20.43.57:796][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.43.57:796][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.43.57:796][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.43.57:796][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.43.57:796][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.43.57:796][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.43.57:796][920]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.44.34:723][121]Cmd: TRANSACTION UNDO
+[2025.09.16-20.44.34:723][121]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.44.59:346][539]Cmd: TRANSACTION UNDO
+[2025.09.16-20.44.59:346][539]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.00:192][577]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.00:192][577]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.00:609][602]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.00:609][602]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.00:892][619]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.00:892][619]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.01:126][633]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.01:126][633]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.02:208][698]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.02:208][698]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.02:393][709]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.02:394][709]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.02:577][720]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.02:577][720]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.02:726][729]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.02:726][729]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.02:927][740]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.02:927][740]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.03:106][745]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.03:106][745]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.03:293][751]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.03:293][751]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.03:479][758]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.03:479][758]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.03:662][769]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.03:662][769]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.03:830][779]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.03:830][779]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.03:979][788]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.03:979][788]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.04:163][799]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.04:163][799]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.04:313][808]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.04:313][808]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.04:447][816]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.04:447][816]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.04:580][824]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.04:580][824]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.04:747][834]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.04:747][834]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.04:913][844]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.04:913][844]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.05:180][860]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.05:180][860]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.05:414][874]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.05:414][874]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.05:580][884]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.05:580][884]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.05:763][895]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.05:764][895]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.05:962][907]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.05:964][907]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.06:130][917]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.06:130][917]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.06:297][927]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.06:297][927]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.06:509][939]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.06:509][939]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.06:699][946]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.06:699][946]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.06:864][951]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.06:865][951]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.07:070][959]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.07:071][959]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.07:270][971]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.07:270][971]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.07:504][985]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.07:504][985]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.07:704][997]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.07:704][997]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.07:921][ 10]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.07:921][ 10]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.08:154][ 24]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.08:154][ 24]LogEditorTransaction: Undo Pintura de Ladrilhos
+[2025.09.16-20.45.32:330][466]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.32:330][466]LogEditorTransaction: Undo Balde de Tinta de Ladrilhos
+[2025.09.16-20.45.49:837][496]Cmd: TRANSACTION UNDO
+[2025.09.16-20.45.49:837][496]LogEditorTransaction: Undo Balde de Tinta de Ladrilhos
+[2025.09.16-20.46.13:587][899]Cmd: TRANSACTION UNDO
+[2025.09.16-20.46.13:587][899]LogEditorTransaction: Undo Balde de Tinta de Ladrilhos
+[2025.09.16-20.46.13:923][911]Cmd: TRANSACTION UNDO
+[2025.09.16-20.46.13:923][911]LogEditorTransaction: Undo Balde de Tinta de Ladrilhos
+[2025.09.16-20.46.30:034][869]Cmd: TRANSACTION UNDO
+[2025.09.16-20.46.30:034][869]LogEditorTransaction: Undo Balde de Tinta de Ladrilhos
+[2025.09.16-20.46.34:471][120]Cmd: TRANSACTION UNDO
+[2025.09.16-20.46.34:471][120]LogEditorTransaction: Undo Balde de Tinta de Ladrilhos
+[2025.09.16-20.47.05:618][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.47.05:677][966]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.47.05:677][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.47.05:679][966]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.47.05:679][966]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroomA0C147E3411E582EAFD162B160B2ED65.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.47.05:687][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.445 ms (total: 6.91 sec)
+[2025.09.16-20.47.05:751][966]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.47.05:751][966]LogContentValidation: Enabled validators:
+[2025.09.16-20.47.05:751][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.47.05:751][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.47.05:751][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.47.05:751][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.47.05:751][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.47.05:751][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.47.05:751][966]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.48.47:406][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.16-20.48.47:409][201]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SheepProject/Level/BedroomLevel' took 0.170
+[2025.09.16-20.48.47:411][201]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.48.47:411][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.48.47:412][201]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SheepProject/Assets/Tiles/TilemapBedroom_Auto1
+[2025.09.16-20.48.47:412][201]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroom_Auto1ACF437DD4A7DDFECB5B3B095B64281F8.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/Autosaves/Game/SheepProject/Assets/Tiles/TilemapBedroom_Auto1.uasset'
+[2025.09.16-20.48.47:413][201]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.09.16-20.48.53:589][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.48.53:646][566]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.48.53:646][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.48.53:647][566]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.48.53:647][566]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroom645006024BF0B130AC672FAECB9FBD81.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.48.53:656][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.514 ms (total: 6.98 sec)
+[2025.09.16-20.48.53:716][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.48.53:716][566]LogContentValidation: Enabled validators:
+[2025.09.16-20.48.53:716][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.48.53:716][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.48.53:716][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.48.53:716][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.48.53:716][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.48.53:716][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.48.53:716][566]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.49.44:442][602]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4760.573730
+[2025.09.16-20.49.44:760][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.49.44:760][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4760.874023, Update Interval: 349.604797
+[2025.09.16-20.50.34:188][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.50.34:246][566]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.50.34:247][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.50.34:248][566]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.50.34:248][566]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroom91AE518449F160FB8297818475DD3D31.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.50.34:256][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.674 ms (total: 7.05 sec)
+[2025.09.16-20.50.34:324][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.50.34:324][566]LogContentValidation: Enabled validators:
+[2025.09.16-20.50.34:324][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.50.34:324][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.50.34:324][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.50.34:324][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.50.34:324][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.50.34:324][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.50.34:324][566]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.51.00:097][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.51.00:162][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.51.00:162][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.51.00:163][103]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.51.00:164][103]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroomAF3BF9654C45651EE6115CBF6A11D73F.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.51.00:172][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.497 ms (total: 7.12 sec)
+[2025.09.16-20.51.00:244][103]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.51.00:244][103]LogContentValidation: Enabled validators:
+[2025.09.16-20.51.00:244][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.51.00:244][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.51.00:244][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.51.00:244][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.51.00:244][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.51.00:244][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.51.00:244][103]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.51.18:909][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.51.18:971][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.51.18:971][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.51.18:972][221]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.51.18:972][221]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroomA825C3004D17367F515CF5BB7D30AF28.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.51.18:980][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.634 ms (total: 7.19 sec)
+[2025.09.16-20.51.19:040][221]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.51.19:040][221]LogContentValidation: Enabled validators:
+[2025.09.16-20.51.19:040][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.51.19:040][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.51.19:040][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.51.19:040][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.51.19:040][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.51.19:040][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.51.19:040][221]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.51.49:510][ 40]Cmd: TRANSACTION UNDO
+[2025.09.16-20.51.49:510][ 40]LogEditorTransaction: Undo Alternar Visibilidade da Camada
+[2025.09.16-20.51.53:764][282]Cmd: TRANSACTION UNDO
+[2025.09.16-20.51.53:764][282]LogEditorTransaction: Undo Alternar Visibilidade da Camada
+[2025.09.16-20.52.18:467][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.52.18:514][740]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.52.18:514][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.52.18:514][740]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.52.18:516][740]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroomFD72DD44407ED2A4D1960083C31CDC02.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.52.18:524][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.980 ms (total: 7.25 sec)
+[2025.09.16-20.52.18:591][740]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.52.18:591][740]LogContentValidation: Enabled validators:
+[2025.09.16-20.52.18:591][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.52.18:591][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.52.18:591][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.52.18:591][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.52.18:591][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.52.18:591][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.52.18:591][740]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.52.24:453][ 85]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom
+[2025.09.16-20.52.24:453][ 85]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom
+[2025.09.16-20.52.24:454][ 85]LogActorFactory: Actor Factory spawned PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom as actor: PaperTileMapActor /Game/SheepProject/Level/BedroomLevel.BedroomLevel:PersistentLevel.PaperTileMapActor_0
+[2025.09.16-20.52.24:455][ 85]LogActorFactory: Actor Factory spawned PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom as actor: PaperTileMapActor /Game/SheepProject/Level/BedroomLevel.BedroomLevel:PersistentLevel.PaperTileMapActor_0
+[2025.09.16-20.52.24:923][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.16-20.52.24:929][112]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.09.16-20.52.24:933][112]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom
+[2025.09.16-20.52.24:933][112]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom
+[2025.09.16-20.52.24:935][112]LogActorFactory: Actor Factory spawned PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom as actor: PaperTileMapActor /Game/SheepProject/Level/BedroomLevel.BedroomLevel:PersistentLevel.PaperTileMapActor_1
+[2025.09.16-20.52.24:935][112]LogActorFactory: Actor Factory spawned PaperTileMap /Game/SheepProject/Assets/Tiles/TilemapBedroom.TilemapBedroom as actor: PaperTileMapActor /Game/SheepProject/Level/BedroomLevel.BedroomLevel:PersistentLevel.PaperTileMapActor_1
+[2025.09.16-20.52.28:426][318]Cmd: TRANSACTION UNDO
+[2025.09.16-20.52.28:426][318]LogEditorTransaction: Undo Colocar objetos
+[2025.09.16-20.52.29:497][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.52.29:591][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.16-20.52.29:594][369]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.52.29:596][369]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel1C77CD2A47C565B37241998A406927C6.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.52.29:603][369]LogFileHelpers: Saving map 'BedroomLevel' took 0.041
+[2025.09.16-20.52.29:612][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.234 ms (total: 7.36 sec)
+[2025.09.16-20.52.29:677][369]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.52.29:677][369]LogContentValidation: Enabled validators:
+[2025.09.16-20.52.29:677][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.52.29:677][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.52.29:677][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.52.29:677][369]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.52.29:677][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.52.29:677][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.52.29:677][369]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.52.33:158][572]LogActorFactory: Actor Factory attempting to spawn PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset
+[2025.09.16-20.52.33:158][572]LogActorFactory: Actor Factory attempting to spawn PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset
+[2025.09.16-20.52.33:158][572]LogActorFactory: Actor Factory spawned PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset as actor: PaperTileMapActor /Game/SheepProject/Level/BedroomLevel.BedroomLevel:PersistentLevel.PaperTileMapActor_2
+[2025.09.16-20.52.33:158][572]LogActorFactory: Actor Factory spawned PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset as actor: PaperTileMapActor /Game/SheepProject/Level/BedroomLevel.BedroomLevel:PersistentLevel.PaperTileMapActor_2
+[2025.09.16-20.52.33:732][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.09.16-20.52.33:734][605]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.09.16-20.52.33:738][605]LogActorFactory: Actor Factory attempting to spawn PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset
+[2025.09.16-20.52.33:738][605]LogActorFactory: Actor Factory attempting to spawn PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset
+[2025.09.16-20.52.33:739][605]LogActorFactory: Actor Factory spawned PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset as actor: PaperTileMapActor /Game/SheepProject/Level/BedroomLevel.BedroomLevel:PersistentLevel.PaperTileMapActor_3
+[2025.09.16-20.52.33:739][605]LogActorFactory: Actor Factory spawned PaperTileSet /Game/SheepProject/Assets/Tiles/BedroomTileset.BedroomTileset as actor: PaperTileMapActor /Game/SheepProject/Level/BedroomLevel.BedroomLevel:PersistentLevel.PaperTileMapActor_3
+[2025.09.16-20.52.36:708][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.52.36:793][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.16-20.52.36:797][781]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.52.36:797][781]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel19DFEDA0480A5F1408FCD9B46C91240B.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.52.36:806][781]LogFileHelpers: Saving map 'BedroomLevel' took 0.041
+[2025.09.16-20.52.36:824][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.737 ms (total: 7.48 sec)
+[2025.09.16-20.52.36:886][781]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.52.36:886][781]LogContentValidation: Enabled validators:
+[2025.09.16-20.52.36:886][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.52.36:886][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.52.36:886][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.52.36:886][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.52.36:886][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.52.36:886][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.52.36:887][781]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.52.45:987][322]Cmd: TRANSACTION UNDO
+[2025.09.16-20.52.45:987][322]LogEditorTransaction: Undo Clicando em Plano de Fundo
+[2025.09.16-20.52.46:716][352]Cmd: TRANSACTION UNDO
+[2025.09.16-20.52.46:717][352]LogEditorTransaction: Undo Colocar objetos
+[2025.09.16-20.52.47:887][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.52.47:981][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.09.16-20.52.47:986][421]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.52.47:986][421]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel7AF68E3E4EFEECFF1DAEAB8CCF5B29CB.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.52.47:994][421]LogFileHelpers: Saving map 'BedroomLevel' took 0.041
+[2025.09.16-20.52.48:003][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.348 ms (total: 7.60 sec)
+[2025.09.16-20.52.48:070][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.52.48:070][421]LogContentValidation: Enabled validators:
+[2025.09.16-20.52.48:070][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.52.48:070][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.52.48:070][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.52.48:070][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.52.48:070][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.52.48:070][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.52.48:071][421]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.53.23:786][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.53.23:846][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Tiles/TilemapBedroom] ([1] browsable assets)...
+[2025.09.16-20.53.23:846][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Tiles/TilemapBedroom]
+[2025.09.16-20.53.23:848][449]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Tiles/TilemapBedroom
+[2025.09.16-20.53.23:848][449]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/TilemapBedroom597CBCF442992275CA349FB22E8E7F64.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Tiles/TilemapBedroom.uasset'
+[2025.09.16-20.53.23:855][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.460 ms (total: 7.66 sec)
+[2025.09.16-20.53.23:923][449]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.53.23:923][449]LogContentValidation: Enabled validators:
+[2025.09.16-20.53.23:923][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.53.23:923][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.53.23:923][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.53.23:923][449]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.53.23:923][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.53.23:923][449]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.53.23:923][449]AssetCheck: /Game/SheepProject/Assets/Tiles/TilemapBedroom Validando ativo
+[2025.09.16-20.53.36:769][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.53.36:811][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.53.36:814][212]LogSlateStyle: Warning: Falta recurso em “CoreStyle” Estilo: “Não foi possível encontrar a Cor “InvertedForeground””
+[2025.09.16-20.53.36:856][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.53.36:891][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.53.41:742][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.53.41:777][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.53.41:813][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.53.41:849][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.54.15:452][477]LogSlate: Window 'Seletor de cores' being destroyed
+[2025.09.16-20.54.27:460][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.54.27:652][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.16-20.54.27:656][197]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.54.27:657][197]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel1E45E221492B5AF01D87EBBBBB49ADB9.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.54.27:664][197]LogFileHelpers: Saving map 'BedroomLevel' took 0.149
+[2025.09.16-20.54.27:703][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.550 ms (total: 7.91 sec)
+[2025.09.16-20.54.27:777][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.54.27:777][197]LogContentValidation: Enabled validators:
+[2025.09.16-20.54.27:777][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.54.27:777][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.54.27:777][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.54.27:777][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.54.27:777][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.54.27:777][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.54.27:777][197]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.55.01:925][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.55.02:017][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.09.16-20.55.02:021][230]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.55.02:021][230]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelA28AE937401BA9BB817050AFDCFF199D.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.55.02:029][230]LogFileHelpers: Saving map 'BedroomLevel' took 0.041
+[2025.09.16-20.55.02:036][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.522 ms (total: 8.02 sec)
+[2025.09.16-20.55.02:103][230]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.55.02:103][230]LogContentValidation: Enabled validators:
+[2025.09.16-20.55.02:103][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.55.02:103][230]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.55.02:103][230]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.55.02:103][230]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.55.02:103][230]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.55.02:103][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.55.02:103][230]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.55.14:319][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.55.14:412][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.09.16-20.55.14:417][956]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.55.14:417][956]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelB08C488B47BDA6296AF822B014531801.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.55.14:425][956]LogFileHelpers: Saving map 'BedroomLevel' took 0.050
+[2025.09.16-20.55.14:432][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.448 ms (total: 8.13 sec)
+[2025.09.16-20.55.14:503][956]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.55.14:503][956]LogContentValidation: Enabled validators:
+[2025.09.16-20.55.14:503][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.55.14:503][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.55.14:503][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.55.14:503][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.55.14:503][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.55.14:503][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.55.14:503][956]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.55.19:923][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.16-20.55.19:925][278]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/BedroomLevel.BedroomLevel
+[2025.09.16-20.55.19:925][278]Cmd: MAP LOAD FILE="../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.16-20.55.19:942][278]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.55.19:942][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.55.19:954][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.55.19:955][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.09.16-20.55.19:957][278]LogStreaming: Display: FlushAsyncLoading(726): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.55.19:958][278]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevel'.
+[2025.09.16-20.55.19:958][278]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevel
+[2025.09.16-20.55.19:984][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.55.19:999][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.16-20.55.20:009][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.55.20:071][278]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 62,13ms para ser concluída.
+[2025.09.16-20.55.51:092][121]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.09.16-20.55.51:097][121]LogContentBrowser: Creating deferred item: NewWorld
+[2025.09.16-20.55.51:111][122]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.09.16-20.55.52:104][182]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2025.09.16-20.55.52:106][182]LogChaosDD: Creating Chaos Debug Draw Scene for world NewWorld
+[2025.09.16-20.55.52:108][182]LogContentBrowser: End creating deferred item NewWorld
+[2025.09.16-20.55.55:064][357]LogObjectTools: Deleting 1 worlds: /Game/SheepProject/Level/NewWorld.NewWorld
+[2025.09.16-20.55.55:065][357]LogObjectTools: Currently 5 active worlds: /Game/SheepProject/Level/BedroomLevel.BedroomLevel, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2025.09.16-20.55.55:093][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.16-20.55.56:659][357]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.16-20.55.56:668][357]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.55.56:668][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.55.56:692][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.16-20.55.56:713][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.16-20.55.56:729][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.16-20.55.58:425][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.55.58:515][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.09.16-20.55.58:518][459]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.55.58:519][459]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelE2BBE2F34DA5117E0CB8A7955D01CB5E.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.55.58:526][459]LogFileHelpers: Saving map 'BedroomLevel' took 0.040
+[2025.09.16-20.55.58:534][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.455 ms (total: 8.24 sec)
+[2025.09.16-20.55.58:619][459]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.55.58:619][459]LogContentValidation: Enabled validators:
+[2025.09.16-20.55.58:619][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.55.58:619][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.55.58:619][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.55.58:619][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.55.58:619][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.55.58:619][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.55.58:619][459]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.55.59:263][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.16-20.55.59:265][495]LogStreaming: Display: FlushAsyncLoading(727): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.55.59:273][495]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.55.59:275][495]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel
+[2025.09.16-20.55.59:292][495]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.55.59:292][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.55.59:306][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.55.59:307][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.16-20.55.59:310][495]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.55.59:310][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.55.59:325][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.16-20.55.59:342][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.16-20.55.59:407][495]LogAudio: Display: Audio Device (ID: 1) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.55.59:407][495]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.55.59:460][495]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.55.59:474][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.16-20.55.59:482][495]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.55.59:482][495]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,045ms para ser concluída.
+[2025.09.16-20.56.04:355][769]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.56.08:439][769]LogSlate: Window 'Novo nível' being destroyed
+[2025.09.16-20.56.08:449][769]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.16-20.56.08:472][769]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.08:473][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.08:485][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.56.08:487][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.16-20.56.08:509][769]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.09.16-20.56.08:509][769]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_2
+[2025.09.16-20.56.08:561][769]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.56.08:574][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.16-20.56.08:576][769]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.56.08:577][769]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,142ms para ser concluída.
+[2025.09.16-20.56.12:166][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5148.271484
+[2025.09.16-20.56.12:434][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.56.12:434][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5148.521973, Update Interval: 342.851654
+[2025.09.16-20.56.23:457][213]LogSlate: Window 'Salvar nível como' being destroyed
+[2025.09.16-20.56.23:601][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.16-20.56.23:613][213]LogSavePackage: Moving output files for package: /Game/BedroomLevelTrue
+[2025.09.16-20.56.23:613][213]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelTrueEAE3AC1A4CB87148AE21E0B5E12C5138.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/BedroomLevelTrue.umap'
+[2025.09.16-20.56.23:630][213]LogFileHelpers: Saving map 'BedroomLevelTrue' took 0.160
+[2025.09.16-20.56.23:630][213]Cmd: MAP LOAD FILE="../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/BedroomLevelTrue.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.16-20.56.23:650][213]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.23:650][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.23:661][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.56.23:662][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.16-20.56.23:664][213]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.56.23:666][213]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevelTrue'.
+[2025.09.16-20.56.23:666][213]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.56.23:714][213]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.56.23:730][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.16-20.56.23:739][213]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.56.23:739][213]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,046ms para ser concluída.
+[2025.09.16-20.56.23:803][213]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.56.23:803][213]LogContentValidation: Enabled validators:
+[2025.09.16-20.56.23:803][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.56.23:803][213]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.56.23:803][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.56.23:803][213]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.56.23:803][213]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.56.23:803][213]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.56.23:803][213]AssetCheck: /Game/BedroomLevelTrue Validando ativo
+[2025.09.16-20.56.26:424][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.56.26:510][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.16-20.56.26:521][350]LogSavePackage: Moving output files for package: /Game/BedroomLevelTrue
+[2025.09.16-20.56.26:521][350]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelTrueF6517945446E180199361384B9D98303.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/BedroomLevelTrue.umap'
+[2025.09.16-20.56.26:528][350]LogFileHelpers: Saving map 'BedroomLevelTrue' took 0.046
+[2025.09.16-20.56.26:537][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.802 ms (total: 8.35 sec)
+[2025.09.16-20.56.26:604][350]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.56.26:604][350]LogContentValidation: Enabled validators:
+[2025.09.16-20.56.26:604][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.56.26:604][350]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.56.26:604][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.56.26:604][350]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.56.26:604][350]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.56.26:604][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.56.26:604][350]AssetCheck: /Game/BedroomLevelTrue Validando ativo
+[2025.09.16-20.56.44:394][127]LogSlate: Window 'Message' being destroyed
+[2025.09.16-20.56.44:406][127]Message dialog closed, result: Ok, title: Message, text: Código-fonte, INI de configuração e arquivos de texto podem precisar da ação de localização/substituição para:
+
+
+BedroomLevelTrue
+
+Caso contrário, os ativos podem estar ausentes das compilações preparadas. Deseja continuar com a ação de renomeação?
+[2025.09.16-20.56.44:414][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.56.44:479][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.16-20.56.44:487][127]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevelTrue
+[2025.09.16-20.56.44:487][127]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelTrue6B44C5EC4DB2AF016B9809852A7283E0.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevelTrue.umap'
+[2025.09.16-20.56.44:497][127]LogFileHelpers: Saving map 'BedroomLevelTrue' took 0.083
+[2025.09.16-20.56.44:498][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BedroomLevelTrue] ([1] browsable assets)...
+[2025.09.16-20.56.44:498][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/BedroomLevelTrue]
+[2025.09.16-20.56.44:498][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BedroomLevelTrue" FILE="../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/BedroomLevelTrue.umap" SILENT=true
+[2025.09.16-20.56.44:498][127]LogSavePackage: Moving output files for package: /Game/BedroomLevelTrue
+[2025.09.16-20.56.44:499][127]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelTrue5965240741B0CAFEAD50C19DE844D939.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/BedroomLevelTrue.umap'
+[2025.09.16-20.56.44:499][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.434 ms (total: 8.44 sec)
+[2025.09.16-20.56.44:550][127]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-20.56.44:550][127]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.16-20.56.44:550][127]LogContentValidation: Enabled validators:
+[2025.09.16-20.56.44:550][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.56.44:550][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.56.44:550][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.56.44:550][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.56.44:550][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.56.44:550][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.56.44:550][127]AssetCheck: /Game/SheepProject/Level/BedroomLevelTrue Validando ativo
+[2025.09.16-20.56.44:550][127]AssetCheck: /Game/BedroomLevelTrue Validando ativo
+[2025.09.16-20.56.48:430][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.56.48:432][349]LogStreaming: Display: FlushAsyncLoading(733): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.56.48:433][349]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevel
+[2025.09.16-20.56.48:434][349]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/BedroomLevel.BedroomLevel
+[2025.09.16-20.56.48:434][349]Cmd: MAP LOAD FILE="../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.16-20.56.48:452][349]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.48:452][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.48:462][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.56.48:463][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.09.16-20.56.48:466][349]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.48:466][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.48:479][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.16-20.56.48:494][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.16-20.56.48:496][349]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevel'.
+[2025.09.16-20.56.48:496][349]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevel
+[2025.09.16-20.56.48:587][349]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.56.48:603][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.16-20.56.48:611][349]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.56.48:611][349]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,045ms para ser concluída.
+[2025.09.16-20.56.50:207][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.56.50:212][432]LogStreaming: Display: FlushAsyncLoading(735): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.56.50:214][432]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.56.50:216][432]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel
+[2025.09.16-20.56.50:233][432]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.50:233][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.50:247][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.56.50:248][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.16-20.56.50:250][432]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.50:250][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.50:264][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.56.50:282][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.16-20.56.50:286][432]LogAudio: Display: Audio Device (ID: 1) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.56.50:286][432]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.56.50:407][432]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.56.50:431][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.16-20.56.50:439][432]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.56.50:439][432]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,05ms para ser concluída.
+[2025.09.16-20.56.52:086][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.09.16-20.56.52:090][515]LogStreaming: Display: FlushAsyncLoading(737): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.56.52:092][515]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.56.52:094][515]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/BedroomLevelTrue.BedroomLevelTrue
+[2025.09.16-20.56.52:110][515]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.52:110][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.52:124][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.56.52:126][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.16-20.56.52:128][515]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.52:128][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.52:139][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.16-20.56.52:155][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.16-20.56.52:158][515]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevelTrue'.
+[2025.09.16-20.56.52:158][515]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.56.52:268][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.56.52:290][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.16-20.56.52:298][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.56.52:298][515]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,05ms para ser concluída.
+[2025.09.16-20.56.53:270][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.16-20.56.53:276][555]LogStreaming: Display: FlushAsyncLoading(739): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.56.53:277][555]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevel
+[2025.09.16-20.56.53:278][555]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/BedroomLevel.BedroomLevel
+[2025.09.16-20.56.53:278][555]Cmd: MAP LOAD FILE="../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.16-20.56.53:294][555]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.53:294][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.53:310][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.56.53:312][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.16-20.56.53:314][555]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.56.53:314][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.56.53:329][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.56.53:344][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.16-20.56.53:346][555]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevel'.
+[2025.09.16-20.56.53:346][555]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevel
+[2025.09.16-20.56.53:433][555]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.56.53:447][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.16-20.56.53:456][555]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.56.53:456][555]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,043ms para ser concluída.
+[2025.09.16-20.56.56:514][727]LogObjectTools: Deleting 1 worlds: /Game/SheepProject/Level/BedroomLevel.BedroomLevel
+[2025.09.16-20.56.56:514][727]LogObjectTools: Currently 5 active worlds: /Game/SheepProject/Level/BedroomLevel.BedroomLevel, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2025.09.16-20.56.58:923][727]LogSlate: Window 'Não é possível excluir o nível' being destroyed
+[2025.09.16-20.56.58:962][727]Message dialog closed, result: Cancel, title: Não é possível excluir o nível, text: Não é possível excluir o nível enquanto ele está aberto
+[2025.09.16-20.57.05:980][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.16-20.57.05:987][ 84]LogStreaming: Display: FlushAsyncLoading(741): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.57.05:989][ 84]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.57.05:990][ 84]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/BedroomLevelTrue.BedroomLevelTrue
+[2025.09.16-20.57.06:007][ 84]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.06:007][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.06:017][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.57.06:019][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.09.16-20.57.06:021][ 84]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.06:021][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.06:035][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.16-20.57.06:050][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.16-20.57.06:054][ 84]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevelTrue'.
+[2025.09.16-20.57.06:054][ 84]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.57.06:165][ 84]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.57.06:181][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.16-20.57.06:189][ 84]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.57.06:189][ 84]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,049ms para ser concluída.
+[2025.09.16-20.57.07:965][174]LogStreaming: Display: FlushAsyncLoading(743): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.57.07:965][174]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevel
+[2025.09.16-20.57.07:966][174]LogObjectTools: Deleting 1 worlds: /Game/SheepProject/Level/BedroomLevel.BedroomLevel
+[2025.09.16-20.57.07:966][174]LogObjectTools: Currently 5 active worlds: /Game/SheepProject/Level/BedroomLevelTrue.BedroomLevelTrue, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2025.09.16-20.57.07:981][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.16-20.57.09:204][174]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.16-20.57.09:212][174]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.09:212][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.09:237][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.16-20.57.09:254][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.16-20.57.09:270][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.09.16-20.57.11:388][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.09.16-20.57.11:390][299]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/BedroomLevelTrue.BedroomLevelTrue
+[2025.09.16-20.57.11:408][299]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.11:408][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.11:421][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.57.11:423][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.16-20.57.11:424][299]LogStreaming: Display: FlushAsyncLoading(744): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.57.11:427][299]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevelTrue'.
+[2025.09.16-20.57.11:427][299]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.57.11:526][299]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.57.11:542][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.16-20.57.11:551][299]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.57.11:551][299]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,046ms para ser concluída.
+[2025.09.16-20.57.12:493][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.16-20.57.12:497][340]LogStreaming: Display: FlushAsyncLoading(745): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.57.12:500][340]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.57.12:502][340]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel
+[2025.09.16-20.57.12:523][340]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.12:523][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.12:537][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.57.12:540][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.09.16-20.57.12:542][340]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.12:542][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.12:557][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.16-20.57.12:572][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.09.16-20.57.12:576][340]LogAudio: Display: Audio Device (ID: 1) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.57.12:576][340]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.57.12:701][340]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.57.12:714][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.57.12:723][340]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.57.12:723][340]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,056ms para ser concluída.
+[2025.09.16-20.57.13:786][384]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.09.16-20.57.13:792][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.16-20.57.13:792][384]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2025.09.16-20.57.13:794][384]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.09.16-20.57.13:811][385]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.57.13:814][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002985s)
+[2025.09.16-20.57.13:814][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel to /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel (0.003028s)
+[2025.09.16-20.57.13:837][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.16-20.57.13:844][385]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.57.13:845][385]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2025.09.16-20.57.13:846][385]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.09.16-20.57.13:846][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.16-20.57.13:846][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.16-20.57.13:846][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.16-20.57.13:846][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.16-20.57.13:846][385]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.16-20.57.13:846][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.16-20.57.13:846][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.16-20.57.13:846][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.16-20.57.13:846][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.16-20.57.13:846][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.16-20.57.13:846][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.16-20.57.13:849][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.16-20.57.13:868][385]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2025.09.16-20.57.13:868][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.16-20.57.13:868][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.16-20.57.13:868][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.16-20.57.13:869][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.09.16-20.57.13:869][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.09.16-20.57.13:871][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.09.16-20.57.13:872][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.09.16-20.57.13:872][385]LogInit: FAudioDevice initialized with ID 20.
+[2025.09.16-20.57.13:872][385]LogAudio: Display: Audio Device (ID: 20) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.57.13:872][385]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.09.16-20.57.13:874][385]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.57.13:875][385]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel up for play (max tick rate 60) at 2025.09.16-17.57.13
+[2025.09.16-20.57.13:875][385]LogWorld: Bringing up level for play took: 0.000868
+[2025.09.16-20.57.13:876][385]LogBlueprintUserMessages: [BP_Hurdle_C_1] X=620 Y=-486,25 Z=50
+[2025.09.16-20.57.13:876][385]PIE: Servidor conectado
+[2025.09.16-20.57.13:877][385]PIE: Tempo inicial total de reprodução no editor: 0,086 s
+[2025.09.16-20.57.16:957][568]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/SheepProject/Level/SheepMicrogameLevel"
+[2025.09.16-20.57.16:957][568]LogNet: Browse: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.57.16:957][568]LogLoad: LoadMap: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.57.16:957][568]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.57.16:958][568]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.16:958][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.16:977][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.57.16:978][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.16-20.57.16:980][568]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.57.16:981][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001507s)
+[2025.09.16-20.57.16:981][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel to /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel (0.001553s)
+[2025.09.16-20.57.16:981][568]LogAudio: Display: Audio Device (ID: 20) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.57.16:981][568]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.57.16:983][568]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2025.09.16-20.57.16:984][568]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.57.16:984][568]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel up for play (max tick rate 60) at 2025.09.16-17.57.16
+[2025.09.16-20.57.16:984][568]LogWorld: Bringing up level for play took: 0.000653
+[2025.09.16-20.57.16:985][568]LogBlueprintUserMessages: [BP_Hurdle_C_1] X=620 Y=-493,735 Z=50
+[2025.09.16-20.57.16:985][568]LogLoad: Took 0.027296 seconds to LoadMap(/Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel)
+[2025.09.16-20.57.16:985][568]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.57.19:160][699]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/SheepProject/Level/SheepMicrogameLevel"
+[2025.09.16-20.57.19:160][699]LogNet: Browse: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.57.19:160][699]LogLoad: LoadMap: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.57.19:160][699]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.57.19:160][699]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.19:161][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.19:198][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.57.19:199][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.16-20.57.19:201][699]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.57.19:203][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001475s)
+[2025.09.16-20.57.19:203][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel to /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel (0.001518s)
+[2025.09.16-20.57.19:203][699]LogAudio: Display: Audio Device (ID: 20) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.57.19:203][699]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.57.19:204][699]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2025.09.16-20.57.19:204][699]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.57.19:205][699]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel up for play (max tick rate 60) at 2025.09.16-17.57.19
+[2025.09.16-20.57.19:205][699]LogWorld: Bringing up level for play took: 0.000642
+[2025.09.16-20.57.19:205][699]LogBlueprintUserMessages: [BP_Hurdle_C_1] X=620 Y=-487,307 Z=50
+[2025.09.16-20.57.19:206][699]LogLoad: Took 0.045744 seconds to LoadMap(/Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel)
+[2025.09.16-20.57.19:206][699]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.57.20:888][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.57.20:889][798]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.57.20:889][798]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.20:889][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.20:896][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.16-20.57.20:900][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.20:911][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.57.20:911][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.09.16-20.57.20:911][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.09.16-20.57.20:914][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.09.16-20.57.20:919][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.09.16-20.57.20:947][799]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.09.16-20.57.22:977][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.57.23:063][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.16-20.57.23:071][920]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.57.23:071][920]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/SheepMicrogameLevel86B3CFE9449E69435378F8AFA457BB7C.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/SheepMicrogameLevel.umap'
+[2025.09.16-20.57.23:078][920]LogFileHelpers: Saving map 'SheepMicrogameLevel' took 0.045
+[2025.09.16-20.57.23:088][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.952 ms (total: 8.55 sec)
+[2025.09.16-20.57.23:154][920]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.57.23:154][920]LogContentValidation: Enabled validators:
+[2025.09.16-20.57.23:154][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.57.23:154][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.57.23:154][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.57.23:154][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.57.23:154][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.57.23:154][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.57.23:154][920]AssetCheck: /Game/SheepProject/Level/SheepMicrogameLevel Validando ativo
+[2025.09.16-20.57.26:343][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.09.16-20.57.26:344][109]LogStreaming: Display: FlushAsyncLoading(747): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.57.26:346][109]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.57.26:347][109]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/BedroomLevelTrue.BedroomLevelTrue
+[2025.09.16-20.57.26:365][109]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.26:366][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.26:378][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.57.26:380][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.16-20.57.26:382][109]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.57.26:382][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.57.26:396][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.16-20.57.26:411][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.16-20.57.26:414][109]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevelTrue'.
+[2025.09.16-20.57.26:414][109]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.57.26:516][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.57.26:539][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.09.16-20.57.26:547][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.57.26:547][109]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,046ms para ser concluída.
+[2025.09.16-20.58.06:323][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.58.06:449][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.16-20.58.06:461][456]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevelTrue
+[2025.09.16-20.58.06:461][456]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelTrue0DAC9E6845A95972EA2BD1845A168BF5.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevelTrue.umap'
+[2025.09.16-20.58.06:468][456]LogFileHelpers: Saving map 'BedroomLevelTrue' took 0.086
+[2025.09.16-20.58.06:477][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.640 ms (total: 8.71 sec)
+[2025.09.16-20.58.06:537][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.58.06:537][456]LogContentValidation: Enabled validators:
+[2025.09.16-20.58.06:537][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.58.06:537][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.58.06:537][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.58.06:537][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.58.06:537][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.58.06:537][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.58.06:537][456]AssetCheck: /Game/SheepProject/Level/BedroomLevelTrue Validando ativo
+[2025.09.16-20.58.24:050][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.58.24:136][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.16-20.58.24:144][899]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevelTrue
+[2025.09.16-20.58.24:144][899]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevelTrueC03B5D784BC0305CE5F33993479547CB.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevelTrue.umap'
+[2025.09.16-20.58.24:151][899]LogFileHelpers: Saving map 'BedroomLevelTrue' took 0.043
+[2025.09.16-20.58.24:160][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.691 ms (total: 8.82 sec)
+[2025.09.16-20.58.24:221][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.58.24:221][899]LogContentValidation: Enabled validators:
+[2025.09.16-20.58.24:221][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.58.24:221][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.58.24:221][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.58.24:221][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.58.24:221][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.58.24:221][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.58.24:221][899]AssetCheck: /Game/SheepProject/Level/BedroomLevelTrue Validando ativo
+[2025.09.16-20.58.27:513][ 96]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.09.16-20.58.27:518][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.16-20.58.27:518][ 96]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2025.09.16-20.58.27:520][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.09.16-20.58.27:535][ 97]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_BedroomLevelTrue
+[2025.09.16-20.58.27:536][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001369s)
+[2025.09.16-20.58.27:536][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/BedroomLevelTrue.BedroomLevelTrue to /Game/SheepProject/Level/UEDPIE_0_BedroomLevelTrue.BedroomLevelTrue (0.001416s)
+[2025.09.16-20.58.27:548][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.16-20.58.27:550][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevelTrue
+[2025.09.16-20.58.27:551][ 97]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2025.09.16-20.58.27:552][ 97]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.09.16-20.58.27:552][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.16-20.58.27:552][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.16-20.58.27:552][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.16-20.58.27:552][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.16-20.58.27:552][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.16-20.58.27:552][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.16-20.58.27:552][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.16-20.58.27:552][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.16-20.58.27:552][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.16-20.58.27:552][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.16-20.58.27:552][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.16-20.58.27:554][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.16-20.58.27:567][ 97]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2025.09.16-20.58.27:568][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.16-20.58.27:568][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.16-20.58.27:568][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.16-20.58.27:568][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.09.16-20.58.27:568][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.09.16-20.58.27:571][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.09.16-20.58.27:571][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.09.16-20.58.27:571][ 97]LogInit: FAudioDevice initialized with ID 21.
+[2025.09.16-20.58.27:571][ 97]LogAudio: Display: Audio Device (ID: 21) registered with world 'BedroomLevelTrue'.
+[2025.09.16-20.58.27:571][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.09.16-20.58.27:573][ 97]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.58.27:574][ 97]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_BedroomLevelTrue.BedroomLevelTrue up for play (max tick rate 60) at 2025.09.16-17.58.27
+[2025.09.16-20.58.27:574][ 97]LogWorld: Bringing up level for play took: 0.000620
+[2025.09.16-20.58.27:578][ 97]PIE: Servidor conectado
+[2025.09.16-20.58.27:578][ 97]PIE: Tempo inicial total de reprodução no editor: 0,06 s
+[2025.09.16-20.58.29:167][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.58.29:168][187]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_BedroomLevelTrue
+[2025.09.16-20.58.29:168][187]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.58.29:168][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.58.29:173][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.16-20.58.29:175][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.58.29:193][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.58.29:193][187]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.09.16-20.58.29:193][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.09.16-20.58.29:195][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.09.16-20.58.29:201][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.16-20.58.29:257][190]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.09.16-20.58.31:578][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.58.31:615][328]LogStall: Shutdown...
+[2025.09.16-20.58.31:615][328]LogStall: Shutdown complete.
+[2025.09.16-20.58.31:644][328]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.58.31:644][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.58.31:882][328]LogSlate: Window 'TilemapBedroom' being destroyed
+[2025.09.16-20.58.31:900][328]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.58.31:900][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.58.31:937][328]LogSlate: Window 'SheepNetworkProject — Unreal Editor' being destroyed
+[2025.09.16-20.58.31:938][328]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2025.09.16-20.58.32:158][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.09.16-20.58.32:193][328]Cmd: QUIT_EDITOR
+[2025.09.16-20.58.32:193][328]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.16-20.58.32:206][329]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.16-20.58.32:208][329]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.16-20.58.32:208][329]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.16-20.58.32:210][329]LogWorld: UWorld::CleanupWorld for BedroomLevelTrue, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.58.32:210][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.58.32:240][329]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.16-20.58.32:250][329]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.16-20.58.32:269][329]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.58.32:269][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.58.32:272][329]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.58.32:273][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.58.32:285][329]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.16-20.58.32:291][329]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.09.16-20.58.32:291][329]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.09.16-20.58.32:291][329]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.09.16-20.58.32:438][329]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.16-20.58.32:438][329]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.16-20.58.32:438][329]LogAudio: Display: Audio Device unregistered from world 'BedroomLevelTrue'.
+[2025.09.16-20.58.32:438][329]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.16-20.58.32:440][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.16-20.58.32:446][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.16-20.58.32:461][329]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.16-20.58.32:462][329]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.16-20.58.32:523][329]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.16-20.58.32:531][329]LogExit: Preparing to exit.
+[2025.09.16-20.58.32:892][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.09.16-20.58.32:897][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:898][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:905][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:907][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:908][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:908][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:908][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:909][329]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.32:909][329]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.16-20.58.33:620][329]LogEditorDataStorage: Deinitializing
+[2025.09.16-20.58.33:969][329]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.16-20.58.34:062][329]LogExit: Editor shut down
+[2025.09.16-20.58.34:076][329]LogExit: Transaction tracking system shut down
+[2025.09.16-20.58.34:909][329]LogExit: Object subsystem successfully closed.
+[2025.09.16-20.58.34:965][329]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.16-20.58.35:541][329]LogMemoryProfiler: Shutdown
+[2025.09.16-20.58.35:541][329]LogNetworkingProfiler: Shutdown
+[2025.09.16-20.58.35:542][329]LoadingProfiler: Shutdown
+[2025.09.16-20.58.35:542][329]LogTimingProfiler: Shutdown
+[2025.09.16-20.58.37:616][329]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.16-20.58.37:633][329]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.09.16-20.58.37:635][329]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.16-20.58.37:721][329]RenderDocPlugin: plugin has been unloaded.
+[2025.09.16-20.58.37:818][329]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.16-20.58.37:819][329]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BABA4639B-4455-D59D-E288-EE8B9BE03634%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=968b349a4f86747db10e639c415278d9%7Cb64d80e81e554e1eac2d09663a3428cf%7C54519f59-33e5-4567-9535-3566c7df1dd8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.16-20.58.39:047][329]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.16-20.58.39:103][329]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.16-20.58.39:103][329]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.16-20.58.39:106][329]LogPakFile: Destroying PakPlatformFile
+[2025.09.16-20.58.39:606][329]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.16-20.58.39:677][329]LogExit: Exiting.
+[2025.09.16-20.58.39:709][329]Log file closed, 09/16/25 17:58:39
