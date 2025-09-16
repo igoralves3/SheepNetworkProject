@@ -5575,3 +5575,61 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.16-20.16.02:906][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.16-20.16.02:906][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.16-20.16.02:906][808]AssetCheck: /Game/SheepProject/Level/SheepMicrogameLevel Validando ativo
+[2025.09.16-20.16.45:669][835]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.09.16-20.16.45:676][835]LogContentBrowser: Creating deferred item: NewWorld
+[2025.09.16-20.16.45:687][836]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.09.16-20.16.55:495][423]LogContentBrowser: Attempting asset rename: NewWorld -> BedroomLevel
+[2025.09.16-20.16.55:496][423]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevel
+[2025.09.16-20.16.55:499][423]LogContentBrowser: End creating deferred item NewWorld
+[2025.09.16-20.16.56:935][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.16-20.16.58:476][506]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2025.09.16-20.16.58:485][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.16.58:576][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.09.16-20.16.58:591][506]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.16.58:591][506]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel354476564E63EA066EBD28A3A26C7A25.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.16.58:594][506]LogFileHelpers: Saving map 'BedroomLevel' took 0.041
+[2025.09.16-20.16.58:709][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.519 ms (total: 5.02 sec)
+[2025.09.16-20.16.58:710][506]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SheepProject/Level/BedroomLevel.BedroomLevel
+[2025.09.16-20.16.58:710][506]Cmd: MAP LOAD FILE="../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.16-20.16.58:819][506]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.16.58:820][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.16.58:836][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.16.58:856][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.09.16-20.16.58:860][506]LogWorld: UWorld::CleanupWorld for BedroomLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.16.58:860][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.16.58:877][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.16-20.16.58:892][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.16-20.16.58:893][506]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-20.16.58:895][506]LogAudio: Display: Audio Device (ID: 1) registered with world 'BedroomLevel'.
+[2025.09.16-20.16.58:895][506]LogChaosDD: Creating Chaos Debug Draw Scene for world BedroomLevel
+[2025.09.16-20.16.58:937][506]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-20.16.58:957][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.16-20.16.58:966][506]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-20.16.58:967][506]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,054ms para ser concluída.
+[2025.09.16-20.16.59:053][506]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.16.59:053][506]LogContentValidation: Enabled validators:
+[2025.09.16-20.16.59:053][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.16.59:053][506]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.16.59:053][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.16.59:053][506]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.16.59:053][506]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.16.59:053][506]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.16.59:053][506]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.17.02:449][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.17.02:545][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.16-20.17.02:549][700]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/BedroomLevel
+[2025.09.16-20.17.02:549][700]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/BedroomLevel536A0A284854AD8D0CE4269ADA1D3DE3.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/BedroomLevel.umap'
+[2025.09.16-20.17.02:556][700]LogFileHelpers: Saving map 'BedroomLevel' took 0.040
+[2025.09.16-20.17.02:566][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.520 ms (total: 5.13 sec)
+[2025.09.16-20.17.02:630][700]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.17.02:630][700]LogContentValidation: Enabled validators:
+[2025.09.16-20.17.02:630][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.17.02:630][700]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.17.02:630][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.17.02:630][700]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.17.02:630][700]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.17.02:630][700]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.17.02:630][700]AssetCheck: /Game/SheepProject/Level/BedroomLevel Validando ativo
+[2025.09.16-20.17.33:720][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2829.829834
+[2025.09.16-20.17.34:004][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.17.34:004][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2830.096680, Update Interval: 336.472046
