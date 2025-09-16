@@ -5238,3 +5238,239 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.16-20.02.18:647][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.16-20.02.18:647][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.16-20.02.18:647][321]AssetCheck: /Game/SheepProject/Blueprints/BP_Hurdle Validando ativo
+[2025.09.16-20.04.41:340][662]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.09.16-20.04.41:346][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.16-20.04.41:346][662]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2025.09.16-20.04.41:348][662]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.09.16-20.04.41:360][663]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.41:363][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002707s)
+[2025.09.16-20.04.41:363][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel to /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel (0.002771s)
+[2025.09.16-20.04.41:387][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.16-20.04.41:389][663]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.04.41:391][663]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2025.09.16-20.04.41:392][663]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.09.16-20.04.41:392][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.16-20.04.41:392][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.16-20.04.41:392][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.16-20.04.41:392][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.16-20.04.41:392][663]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.16-20.04.41:392][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.16-20.04.41:392][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.16-20.04.41:392][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.16-20.04.41:392][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.16-20.04.41:392][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.16-20.04.41:392][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.16-20.04.41:395][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.16-20.04.41:410][663]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2025.09.16-20.04.41:411][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.16-20.04.41:411][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.16-20.04.41:411][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.16-20.04.41:412][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.09.16-20.04.41:412][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.09.16-20.04.41:415][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.09.16-20.04.41:415][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.09.16-20.04.41:415][663]LogInit: FAudioDevice initialized with ID 19.
+[2025.09.16-20.04.41:415][663]LogAudio: Display: Audio Device (ID: 19) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.04.41:415][663]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.16-20.04.41:417][663]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.04.41:418][663]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel up for play (max tick rate 60) at 2025.09.16-17.04.41
+[2025.09.16-20.04.41:418][663]LogWorld: Bringing up level for play took: 0.000939
+[2025.09.16-20.04.41:419][663]LogBlueprintUserMessages: [BP_Hurdle_C_1] X=620 Y=-483,401 Z=50
+[2025.09.16-20.04.41:420][663]PIE: Servidor conectado
+[2025.09.16-20.04.41:420][663]PIE: Tempo inicial total de reprodução no editor: 0,075 s
+[2025.09.16-20.04.43:545][787]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/SheepProject/Level/SheepMicrogameLevel"
+[2025.09.16-20.04.43:546][787]LogNet: Browse: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.04.43:546][787]LogLoad: LoadMap: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.04.43:546][787]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.43:546][787]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.04.43:547][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.04.43:560][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.04.43:562][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.16-20.04.43:564][787]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.43:565][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001565s)
+[2025.09.16-20.04.43:565][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel to /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel (0.001611s)
+[2025.09.16-20.04.43:565][787]LogAudio: Display: Audio Device (ID: 19) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.04.43:565][787]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.04.43:566][787]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2025.09.16-20.04.43:566][787]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.04.43:566][787]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel up for play (max tick rate 60) at 2025.09.16-17.04.43
+[2025.09.16-20.04.43:567][787]LogWorld: Bringing up level for play took: 0.000675
+[2025.09.16-20.04.43:567][787]LogBlueprintUserMessages: [BP_Hurdle_C_1] X=620 Y=-489,319 Z=50
+[2025.09.16-20.04.43:568][787]LogLoad: Took 0.022040 seconds to LoadMap(/Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel)
+[2025.09.16-20.04.43:568][787]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.46:708][976]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/SheepProject/Level/SheepMicrogameLevel"
+[2025.09.16-20.04.46:708][976]LogNet: Browse: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.04.46:708][976]LogLoad: LoadMap: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.04.46:708][976]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.46:709][976]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.04.46:709][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.04.46:739][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.04.46:741][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.16-20.04.46:743][976]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.46:744][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001487s)
+[2025.09.16-20.04.46:744][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel to /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel (0.001533s)
+[2025.09.16-20.04.46:744][976]LogAudio: Display: Audio Device (ID: 19) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.04.46:744][976]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.04.46:745][976]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2025.09.16-20.04.46:745][976]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.04.46:746][976]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel up for play (max tick rate 60) at 2025.09.16-17.04.46
+[2025.09.16-20.04.46:746][976]LogWorld: Bringing up level for play took: 0.000667
+[2025.09.16-20.04.46:746][976]LogBlueprintUserMessages: [BP_Hurdle_C_1] X=620 Y=-499,709 Z=50
+[2025.09.16-20.04.46:746][976]LogLoad: Took 0.038959 seconds to LoadMap(/Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel)
+[2025.09.16-20.04.46:746][976]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.49:886][165]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/SheepProject/Level/SheepMicrogameLevel"
+[2025.09.16-20.04.49:886][165]LogNet: Browse: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.04.49:886][165]LogLoad: LoadMap: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.04.49:886][165]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.49:887][165]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.04.49:887][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.04.49:904][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.04.49:905][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.09.16-20.04.49:907][165]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.49:909][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001647s)
+[2025.09.16-20.04.49:909][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel to /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel (0.001701s)
+[2025.09.16-20.04.49:909][165]LogAudio: Display: Audio Device (ID: 19) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.04.49:909][165]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.04.49:910][165]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2025.09.16-20.04.49:910][165]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.04.49:911][165]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel up for play (max tick rate 60) at 2025.09.16-17.04.49
+[2025.09.16-20.04.49:911][165]LogWorld: Bringing up level for play took: 0.000684
+[2025.09.16-20.04.49:912][165]LogBlueprintUserMessages: [BP_Hurdle_C_1] X=620 Y=-495,18 Z=50
+[2025.09.16-20.04.49:912][165]LogLoad: Took 0.025636 seconds to LoadMap(/Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel)
+[2025.09.16-20.04.49:912][165]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.52:286][308]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/SheepProject/Level/SheepMicrogameLevel"
+[2025.09.16-20.04.52:286][308]LogNet: Browse: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.04.52:286][308]LogLoad: LoadMap: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.04.52:286][308]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.52:286][308]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.04.52:287][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.04.52:303][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-20.04.52:305][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.09.16-20.04.52:307][308]LogPlayLevel: Creating play world package: /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.52:308][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001629s)
+[2025.09.16-20.04.52:308][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SheepProject/Level/SheepMicrogameLevel.SheepMicrogameLevel to /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel (0.001679s)
+[2025.09.16-20.04.52:308][308]LogAudio: Display: Audio Device (ID: 19) registered with world 'SheepMicrogameLevel'.
+[2025.09.16-20.04.52:308][308]LogChaosDD: Creating Chaos Debug Draw Scene for world SheepMicrogameLevel
+[2025.09.16-20.04.52:309][308]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2025.09.16-20.04.52:309][308]LogLoad: Game class is 'GameModeBase'
+[2025.09.16-20.04.52:310][308]LogWorld: Bringing World /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel.SheepMicrogameLevel up for play (max tick rate 60) at 2025.09.16-17.04.52
+[2025.09.16-20.04.52:310][308]LogWorld: Bringing up level for play took: 0.000636
+[2025.09.16-20.04.52:311][308]LogBlueprintUserMessages: [BP_Hurdle_C_1] X=620 Y=-481,619 Z=50
+[2025.09.16-20.04.52:311][308]LogLoad: Took 0.025480 seconds to LoadMap(/Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel)
+[2025.09.16-20.04.52:311][308]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.52:506][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.04.52:506][319]LogWorld: BeginTearingDown for /Game/SheepProject/Level/UEDPIE_0_SheepMicrogameLevel
+[2025.09.16-20.04.52:506][319]LogWorld: UWorld::CleanupWorld for SheepMicrogameLevel, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.04.52:506][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.04.52:511][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.16-20.04.52:514][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.04.52:525][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-20.04.52:525][319]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.16-20.04.52:525][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.09.16-20.04.52:527][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.09.16-20.04.52:533][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.16-20.04.52:599][322]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.09.16-20.05.22:013][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2098.125000
+[2025.09.16-20.05.23:013][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.05.23:013][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2098.792236, Update Interval: 327.411713
+[2025.09.16-20.10.45:468][337]LogInterchangeEngine: [Pendente] Importando
+[2025.09.16-20.10.45:477][337]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.16-20.10.45:503][337]LogInterchangeEngine: [Pendente] Importando - Operation completed.
+[2025.09.16-20.10.45:503][337]LogInterchangeEngine: [Sucesso] Importação concluída
+[2025.09.16-20.10.56:495][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.10.56:592][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.16-20.10.56:600][979]LogSavePackage: Moving output files for package: /Game/SheepProject/Level/SheepMicrogameLevel
+[2025.09.16-20.10.56:600][979]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/SheepMicrogameLevel1F033A8949A3C10F4BEC0BBA0A30574A.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Level/SheepMicrogameLevel.umap'
+[2025.09.16-20.10.56:608][979]LogFileHelpers: Saving map 'SheepMicrogameLevel' took 0.056
+[2025.09.16-20.10.56:617][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.712 ms (total: 4.03 sec)
+[2025.09.16-20.10.56:688][979]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.10.56:689][979]LogContentValidation: Enabled validators:
+[2025.09.16-20.10.56:689][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.10.56:689][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.10.56:689][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.10.56:689][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.10.56:689][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.10.56:689][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.10.56:689][979]AssetCheck: /Game/SheepProject/Level/SheepMicrogameLevel Validando ativo
+[2025.09.16-20.10.57:705][ 40]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/SheepProject/Assets/Sprites/Player.Player
+[2025.09.16-20.10.59:321][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.10.59:390][107]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Sprites/Player] ([1] browsable assets)...
+[2025.09.16-20.10.59:392][107]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SheepProject/Assets/Sprites/Player.Player]
+[2025.09.16-20.10.59:392][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Sprites/Player]
+[2025.09.16-20.10.59:398][107]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Sprites/Player
+[2025.09.16-20.10.59:398][107]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/PlayerAF29B1F547BE6C58F172F4B0BF645A8C.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Sprites/Player.uasset'
+[2025.09.16-20.10.59:413][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.527 ms (total: 4.12 sec)
+[2025.09.16-20.10.59:480][107]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.10.59:480][107]LogContentValidation: Enabled validators:
+[2025.09.16-20.10.59:480][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.10.59:480][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.10.59:480][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.10.59:480][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.10.59:480][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.10.59:480][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.10.59:480][107]AssetCheck: /Game/SheepProject/Assets/Sprites/Player Validando ativo
+[2025.09.16-20.11.11:855][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.11.11:912][839]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Sprites/Player_Sprite] ([1] browsable assets)...
+[2025.09.16-20.11.11:914][839]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/SheepProject/Assets/Sprites/Player_Sprite.Player_Sprite]
+[2025.09.16-20.11.11:914][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Sprites/Player_Sprite]
+[2025.09.16-20.11.11:917][839]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Sprites/Player_Sprite
+[2025.09.16-20.11.11:917][839]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/Player_Sprite76DA2C3E44134E2D5EE59D8F05BDEA7E.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Sprites/Player_Sprite.uasset'
+[2025.09.16-20.11.11:927][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.036 ms (total: 4.20 sec)
+[2025.09.16-20.11.11:986][839]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.11.11:986][839]LogContentValidation: Enabled validators:
+[2025.09.16-20.11.11:986][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.11.11:986][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.11.11:986][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.11.11:986][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.11.11:986][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.11.11:986][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.11.11:986][839]AssetCheck: /Game/SheepProject/Assets/Sprites/Player_Sprite Validando ativo
+[2025.09.16-20.11.12:888][892]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/SheepProject/Assets/Sprites/Player_Sprite.Player_Sprite
+[2025.09.16-20.11.12:892][892]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.16-20.11.16:691][ 96]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.11.16:691][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.11.16:833][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.16-20.11.20:126][289]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2456.239502
+[2025.09.16-20.11.20:377][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-20.11.20:377][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2456.472656, Update Interval: 317.864319
+[2025.09.16-20.11.22:605][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.11.22:605][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SheepProject/Assets/Characters/Player_Sprite] ([1] browsable assets)...
+[2025.09.16-20.11.22:605][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Characters/Player_Sprite]
+[2025.09.16-20.11.22:606][417]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Characters/Player_Sprite
+[2025.09.16-20.11.22:606][417]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/Player_Sprite53A4842A4C0FFDD5665E5FA9738676CE.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Characters/Player_Sprite.uasset'
+[2025.09.16-20.11.22:607][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.154 ms (total: 4.20 sec)
+[2025.09.16-20.11.22:673][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-20.11.22:692][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.16-20.11.22:711][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.16-20.11.22:756][417]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-20.11.22:756][417]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.11.22:756][417]LogContentValidation: Enabled validators:
+[2025.09.16-20.11.22:756][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.11.22:756][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.11.22:756][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.11.22:757][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.11.22:757][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.11.22:757][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.11.22:757][417]AssetCheck: /Game/SheepProject/Assets/Characters/Player_Sprite Validando ativo
+[2025.09.16-20.11.26:005][610]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/SheepProject/Assets/Characters/Player_Sprite.Player_Sprite
+[2025.09.16-20.11.26:006][610]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.09.16-20.12.39:747][900]LogTexture: Display: Texturas de compilação: /Game/SheepProject/Assets/Sprites/Player.Player (BGRA8, 32X64 X1X1X1) (Memória necessária estimada: 1.070297 MB), EncodeSpeed: Final
+[2025.09.16-20.12.44:917][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-20.12.44:973][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SheepProject/Assets/Sprites/Player] ([1] browsable assets)...
+[2025.09.16-20.12.44:975][208]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/SheepProject/Assets/Sprites/Player.Player]
+[2025.09.16-20.12.44:975][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/SheepProject/Assets/Sprites/Player]
+[2025.09.16-20.12.44:976][208]LogSavePackage: Moving output files for package: /Game/SheepProject/Assets/Sprites/Player
+[2025.09.16-20.12.44:977][208]LogSavePackage: Moving '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Saved/Player5E163CA04B4664E411CCE8867DF86C4A.tmp' to '../../../../../../Users/Igor/Documents/Unreal Projects/SheepNetworkProject/SheepNetworkProject/Content/SheepProject/Assets/Sprites/Player.uasset'
+[2025.09.16-20.12.44:985][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.425 ms (total: 4.27 sec)
+[2025.09.16-20.12.45:053][208]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-20.12.45:053][208]LogContentValidation: Enabled validators:
+[2025.09.16-20.12.45:053][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-20.12.45:053][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-20.12.45:053][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-20.12.45:053][208]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-20.12.45:053][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-20.12.45:053][208]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-20.12.45:053][208]AssetCheck: /Game/SheepProject/Assets/Sprites/Player Validando ativo
+[2025.09.16-20.12.57:046][917]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-20.12.57:046][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-20.12.57:146][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
